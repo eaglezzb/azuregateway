@@ -23,8 +23,10 @@
 </br>
 计划增加功能 -- 前端
 </br>
-@1 设计,已经决定采用React架构
+@1 设计ing
 
+</br>
+</br>
 期待您的反馈: eagle.zhao@outlook.com
 
 </br>
