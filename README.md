@@ -15,9 +15,8 @@
 
 ## Global Azure
 
-#1 支持Auth2.0 获取 AAD Token 																						
-#2 支持Gets all the resource groups for a subscription
-																												
+#1 支持Auth2.0 获取 AAD Token  																						
+#2 支持Gets all the resource groups for a subscription 													
 #3 支持Lists all the storage accounts available under the subscription 
 
 #4 支持API 分组 
