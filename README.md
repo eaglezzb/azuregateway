@@ -11,6 +11,8 @@
 
  旭哥(VM)
 
+ Hank Wang(Storage)
+
 
 
 ## Global Azure
