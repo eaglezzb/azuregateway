@@ -1,9 +1,9 @@
 # azuregateway
 </br>
  </br>
-感谢很多兄弟的支持
+感谢很多兄弟的支持。 </br> Ex: 兵哥 </br> 小强 </br> 旭总
 </br>
- </br>
+</br>
 支持 Global Azure  </br>
 #1 支持Auth2.0 获取 AAD Token </br> 
 #2 支持Gets all the resource groups for a subscription </br>
