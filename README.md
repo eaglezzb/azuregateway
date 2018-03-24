@@ -1,7 +1,7 @@
 # azuregateway
 </br>
  </br>
-感谢很多兄弟的支持。 </br> Ex: 兵哥 </br> 小强 </br> 旭哥
+感谢很多兄弟的支持。 </br> Ex: 兵哥(AAD) </br> 小强(C#) </br> 旭哥(VM)
 </br>
 </br>
 支持 Global Azure  </br>
