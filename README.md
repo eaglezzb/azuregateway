@@ -12,6 +12,15 @@
 
 </br>
 </br>
+@1 增加统计存储账户存储占用总空间</br>
+@2 增加同级存储账户有多少文件，返回Excel</br>
+@3 增加熔断功能 </br>
+@4 增加审计</br>
+
+期待您的反馈: eagle.zhao@outlook.com
+
+</br>
+</br>
 China Azure 
 </br>
 </br>
