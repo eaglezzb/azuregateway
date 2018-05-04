@@ -23,6 +23,9 @@
 #4 支持Lists all the storage accounts available under the subscription </br>
 #5 支持API 分组 </br>
 
+</br> MySql On Azure </br>
+#6 Lists all of the available REST API operations.
+
 
 ## 计划增加功能 -- 后端
 
