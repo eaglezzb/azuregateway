@@ -15,8 +15,8 @@
  最感谢是我的太太和家人.
 
 ## Dependency
-#1 .Net Core 2.1 and 3.0 Preview 
-#2 RestAPI --> Azure SDK Go
+#1 .Net Core 2.1 and 3.0 Preview 	</br>
+#2 RestAPI --> Azure SDK Go  	</br>
 
 
 ## Global Azure
